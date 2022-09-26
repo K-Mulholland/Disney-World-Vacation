@@ -21,9 +21,9 @@ My goal in using this data set is to create an amazing family vacation experienc
 ## What are the highest ranked rides that do not have a height restriction?
 
 
+## Conclusion
 
-
-
+## Data Limitations
 Possible limitations of this data set from 2018 include:
   Rides built after 2018
   Discrepancies in Travel and Leisure/Trip Advisor ride rankings
