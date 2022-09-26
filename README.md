@@ -41,11 +41,9 @@ If we were to pick one park to be sure to focus on during our visit, Magic Kingd
 
 ## Data Limitations
 Possible limitations of this data set from 2018 include:
-  Rides built after 2018 (ie: Ratatouille)
-  Discrepancies in Travel and Leisure/Trip Advisor ride rankings
-  Data collection accuracy
-    Undefined: ride vs experience
-    Undefined: age of 'kids' 
+  ~Rides built after 2018 (ie: Ratatouille)
+  ~Discrepancies in Travel and Leisure/Trip Advisor ride rankings
+  ~Data collection accuracy:  ~Undefined: ride vs experience ~Undefined: age of 'kids' 
     
   
  
