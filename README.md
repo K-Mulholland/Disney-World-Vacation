@@ -3,13 +3,14 @@
 
 ![download](https://user-images.githubusercontent.com/105945908/192340528-b1811fd2-fb81-4061-b3a3-654e4f318c2d.jpg)
 
+## Background
 
 This project uses a data set provided by Lynne Passanisi on Data.World:
 data.world/lynne588/walt-disney-world-ride-data
 
 The original intention of creating this data set was to determine the best potential future ride types and locations to create at Walt Disney World.
 
-My goal in using this data set is to create an amazing family vacation experience with my husband and 5 year old.
+My goal in using this data set is to create an amazing family vacation experience with my husband and 5 year old.  The below questions are just the beginning of exploration into the information provided.
 
 ## What park has the most rides?
 
