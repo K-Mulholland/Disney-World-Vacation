@@ -13,19 +13,35 @@ The original intention of creating this data set was to determine the best poten
 My goal in using this data set is to create an amazing family vacation experience with my husband and 5 year old.  The below questions are just the beginning of exploration into the information provided.
 
 ## What park has the most rides?
+1) Magic Kingdom
+2) Hollywood Studios
+3) Animal Kingdom
+4) Epcot
 
 ## What park has the most rides that would be best for my son?
+1) Magic Kingdom
+2) Animal Kingdom
+4) Epcot
+5) Hollywood Studios
 
-## What park has the most rides that fall into the 'no height restriction' category?
+## What park has the most high ranking rides that fall into the 'no height restriction' category?
+1) Magic Kingdom
+2) Hollywood Studios
+3) Animal Kingdom
+4) Epcot
 
 ## What are the highest ranked rides that do not have a height restriction?
-
+1) Magic Kingdom:  Haunted Mansion
+2) Magic Kingdom: Toy Story Mania
+3) Animal Kingdom: Kilimanjaro Safaris
+4) Magic Kingdom: Pirates of the Caribbean
 
 ## Conclusion
+If we were to pick one park to be sure to focus on during our visit, Magic Kingdom would be a good choice due to the sheer volume of rides.  Magic Kingdom also has the most rides for all ages and many of the highest overall ranking rides in Walt Disney World.  However, my favorite park is Epcot.  I believe that the data limitations of new ride construction and the definition of an experience vs a ride could have been a factor in Epcot falling so low in every question examined in this project.  Furthermore, other considerations when drawing conclusions about family vacations could also include ride wait times, fast pass availability, ride closures, food options, shows/experiences, and distance of park to hotel.  Therefore, more research must be completed before solidifying park plans.    
 
 ## Data Limitations
 Possible limitations of this data set from 2018 include:
-  Rides built after 2018
+  Rides built after 2018 (ie: Ratatouille)
   Discrepancies in Travel and Leisure/Trip Advisor ride rankings
   Data collection accuracy
     Undefined: ride vs experience
