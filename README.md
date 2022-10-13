@@ -18,6 +18,8 @@ My goal in using this data set is to create an amazing family vacation experienc
 3) Animal Kingdom
 4) Epcot
 
+![WDW Ride Count By Park](https://user-images.githubusercontent.com/105945908/195475216-a16fb0f4-d479-4933-8900-fab7c8e6ea58.png)
+
 ## What park has the most rides that would be best for my son?
 1) Magic Kingdom
 2) Animal Kingdom
